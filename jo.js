@@ -21,10 +21,8 @@ else
 {
 
 }
-var pagina="http://informacional100.blogspot.com.co"
-function redireccionar()
-{
-location.href=pagina
-}
-setTimeout ("redireccionar()", 500);
+
+{ 
+window.location = "http://www.vallevende.cl";
+
 
