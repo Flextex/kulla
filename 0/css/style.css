@@ -1718,13 +1718,13 @@ header {
   left: 0;
   top: 0;
   width: 100%;
-  padding: 15px 0;
+  padding: 0px 0;
   z-index: 99999;
   border-bottom: 1px solid rgba(255, 255, 255, 0);
 }
 @media (max-width: 991px) {
   header {
-    padding: 10px 0 10px 0;
+    padding: 0px 0 0px 0;
   }
 }
 header.header .logo_sticky {
